@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/anasayfa"
+        android:icon="@drawable/resim_anasayfa"
+        android:title="Ana Sayfa" />
+    <item
+        android:id="@+id/ara"
+        android:icon="@drawable/resim_ara"
+        android:title="Ara" />
+    <item
+        android:id="@+id/cok_yakinda"
+        android:icon="@drawable/resim_cokyakinda"
+        android:title="Çok Yakında" />
+    <item
+        android:id="@+id/indirilenler"
+        android:icon="@drawable/resim_indirilenler"
+        android:title="İndirilenler" />
+    <item
+        android:id="@+id/daha_fazla"
+        android:icon="@drawable/resim_dahafazla"
+        android:title="Daha Fazla" />
+</menu>
